@@ -9,4 +9,3 @@ This program uses the javax.swing, java.awt and java.awt.event imports to create
 3. Use a java IDE to open it
 4. Then run the program
 5. Use the number and function keys to add you equations and get your answers
-6.
